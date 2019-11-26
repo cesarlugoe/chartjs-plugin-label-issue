@@ -8,4 +8,4 @@ Required: Node, npm
 4. The error should be logged in the terminal
 
 File were the chart code is:
-`https://github.com/cesarlugoe/chartjs-plugin-label-issue/blob/master/routes/index.js`
+https://github.com/cesarlugoe/chartjs-plugin-label-issue/blob/master/routes/index.js
